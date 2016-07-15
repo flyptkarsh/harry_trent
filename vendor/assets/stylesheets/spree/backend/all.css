@@ -13,6 +13,6 @@ body {
   font-family: 'Lato', sans-serif !important;
 }
 
-body > div.admin-nav.fits > header > a > img {
-  width: 60px !important;
+img {
+  max-height: 100% !important;
 }
