@@ -7,3 +7,12 @@
  *= require_self
  *= require_tree .
 */
+@import url(https://fonts.googleapis.com/css?family=Lato:400,900italic,700italic,400italic,300italic,100italic,900,100,300,700);
+
+body {
+  font-family: 'Lato', sans-serif !important;
+}
+
+#logo > a > img {
+  width: 100px !important;
+}
